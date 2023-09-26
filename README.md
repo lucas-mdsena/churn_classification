@@ -5,4 +5,4 @@ A base utilizada neste trabalho foram disponibilizados via API em formato JSON. 
 
 O objetivo é analisar os dados e constriuir um modelo de classificação para churn de clientes, a ser utilizado pela empresa definir sua estratégia de fidelização.
 
-As etapas envolvem ETL, análise exploratória, aplicação e comparação de modelos de classificação e escolha do melhor modelo para entrar em produção (em desenvolvimento).
+As etapas envolvem ETL, análise exploratória, aplicação e comparação de modelos de classificação e otimização do melhor modelo para entrar em produção.
